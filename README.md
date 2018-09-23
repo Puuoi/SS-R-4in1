@@ -137,3 +137,6 @@ Shadowsocks-libev 版：
 ```
 /etc/shadowsocks-libev/config.json
 ```
+### VPS推荐</br> 
+<a href="https://www.vultr.com/promo25b/?ref=7519919">Vultr</a>：15+机房，SSD VPS低至2.5$/月，按小时计费，对新手友好，新用户首充10美元赠送25美元。</br> 
+<a href="https://bwh1.net/aff.php?aff=36877&pid=43">BandwagonHost（搬瓦工）</a>：美西CN2线路，部分IP支持观看Netflix，特价款仅需19$/月，使用优惠码BWH26FXH3HIQ享6%优惠</br> 
